@@ -1,0 +1,17 @@
+body{
+    background-image:url();
+    background-color: rgb(185, 182, 182); 
+    color:black;
+    font-size: large; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    
+.border{
+        border: solid 5px;
+        padding: 20px;
+        margin:50px
+    }
+.seccion1{background-color: rgb(255, 255, 255);
+text-align: center; padding: 5%;}
+.seccion2{padding-right: 30%; margin: 50px;}
+.seccion4{padding-left: 30%;margin: 50px;}
+.seccion3{background-color: white ; margin: auto;text-align: center; padding: 30px;}
